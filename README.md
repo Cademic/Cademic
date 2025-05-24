@@ -95,7 +95,7 @@ I'm a passionate **Full-Stack Developer** who loves to create solutions! Current
 - 🌐 **Live Site**: [www.carterwright.dev](https://www.carterwright.dev)
 - 💡 **Architecture**: Component-based structure with CSS Grid and Flexbox
 
-### 🎮 [MineSweeper]([https://github.com/Cademic](https://github.com/NoahStarkenburg/MineSweeper))
+### 🎮 [MineSweeper](https://github.com/NoahStarkenburg/MineSweeper)
 **Classic Game Recreation | C# / .NET Framework**
 - 🛠️ **Backend**: C# with .NET Framework and Razor Pages architecture
 - 🎨 **Frontend**: Server-side rendered Razor Pages with interactive JavaScript
@@ -117,7 +117,7 @@ I'm a passionate **Full-Stack Developer** who loves to create solutions! Current
 - 🎯 **Community**: Social features tailored for the programming community
 - 🔧 **Architecture**: Modular Spring Boot application with clean separation of concerns
 
-### 🎬 [CineScope]([https://github.com/Cademic](https://github.com/omniV1/CineScope))
+### 🎬 [CineScope](https://github.com/omniV1/CineScope)
 **Movie Review Application | C# / .NET Framework**
 - 🛠️ **Framework**: C# with .NET Framework for robust application development
 - 🎭 **Features**: Comprehensive movie rating and review system
