@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Developer** who loves to create solutions! Currently pursuing my **Bachelor of Science in Software Development** with a **Minor in Cyber Security** at Grand Canyon University (Expected May 2026). I work as an **Asset and Space Database Assistant** at Grand Canyon Education, where I streamline processes and maintain facility applications.
+I'm a passionate **Full-Stack Developer** who enjoys web-development and learning! Currently pursuing my **Bachelor of Science in Software Development** with a **Minor in Cyber Security** at Grand Canyon University. I am currently looking for a postion as a software developer, either as Full-Time, Part-Time, or an Internship.
 
 - 🔭 I'm currently working on full-stack applications using Java, C#, and modern web technologies
 - 🌱 I'm pursuing my degree in Software Development with a Cyber Security minor
