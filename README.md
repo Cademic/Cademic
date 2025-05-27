@@ -8,11 +8,10 @@
 
 I'm a passionate **Full-Stack Developer** who enjoys web-development and learning! Currently pursuing my **Bachelor of Science in Software Development** with a **Minor in Cyber Security** at Grand Canyon University. I am currently looking for a postion as a software developer, either as Full-Time, Part-Time, or an Internship.
 
-- 🔭 I'm currently working on full-stack applications using Java, C#, and modern web technologies
+- 🔭 I'm currently working on full-stack applications using Java, C#, and web development
 - 🌱 I'm pursuing my degree in Software Development with a Cyber Security minor
 - 🎯 I love creating solutions to real-world problems through code
 - 💼 Working with databases and preventive maintenance systems professionally
-- 🏫 Active member of GCU Tech Club and IEEE Club
 - 💬 Ask me about Java, C#, Spring Boot, .NET, or database design
 - ⚡ Fun fact: I enjoy replicating classic games and building social platforms
 
