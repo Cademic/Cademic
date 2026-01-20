@@ -83,17 +83,6 @@ I'm a passionate **Full-Stack Developer** who enjoys web-development and learnin
 - 🎯 **Purpose**: Providing gentle postpartum support for West Valley families
 - 🔄 **Status**: Actively developing new features and enhancements
 
-### 💼 [Portfolio Website](https://github.com/Cademic/PortfolioWebsite)
-**Professional Developer Portfolio | Vue.js & TypeScript**
-- 🛠️ **Framework**: Vue.js 3 with TypeScript for type-safe development
-- 🎨 **Design**: Modern dark coding theme with responsive design
-- ⚡ **Build Tool**: Vite for fast development and optimized builds
-- 📱 **Responsive**: Fully responsive layout for mobile, tablet, and desktop
-- 🎯 **Features**: Interactive skill bars, smooth navigation, and animated hover effects
-- 📧 **Contact**: Integrated Formspree for reliable contact form handling
-- 🌐 **Live Site**: [www.carterwright.dev](https://www.carterwright.dev)
-- 💡 **Architecture**: Component-based structure with CSS Grid and Flexbox
-
 ### 🎮 [MineSweeper](https://github.com/NoahStarkenburg/MineSweeper)
 **Classic Game Recreation | C# / .NET Framework**
 - 🛠️ **Backend**: C# with .NET Framework and Razor Pages architecture
