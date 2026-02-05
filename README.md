@@ -22,15 +22,6 @@ I'm a passionate **Full-Stack Developer** who enjoys web-development and learnin
 - 🛠️ GCU Tech Club Member
 - ⚡ IEEE Club Member
 
-## 💼 Professional Experience
-
-**Asset and Space Database Assistant** | *May 2024 – Present*  
-*Grand Canyon Education* | Phoenix, AZ
-- 🗄️ Utilize databases to locate and input assets efficiently
-- 📅 Streamline preventive maintenance schedules
-- 🤝 Collaborate with teammates to complete complex projects
-- 🔧 Maintain upkeep and troubleshoot facility applications
-
 ## 🛠️ Tech Stack
 
 ### Programming Languages
@@ -72,16 +63,16 @@ I'm a passionate **Full-Stack Developer** who enjoys web-development and learnin
 ## 📁 Featured Projects
 
 ### 🌟 [Lunara Postpartum Support Platform](https://github.com/omniV1/AQC)
-**Comprehensive Healthcare Platform | Full-Stack Development**
-- 🛠️ **Backend**: Java 17, Spring Boot, Spring Security, Spring Data JPA with Maven
-- 🎨 **Frontend**: React with Vite, TypeScript, and Tailwind CSS for modern UI
-- 🗄️ **Database**: PostgreSQL with Flyway migrations for robust data management
-- 🔐 **Security**: JWT authentication and Spring Security for secure user access
-- 🐳 **DevOps**: Docker containerization with Docker Compose for seamless deployment
-- 📊 **Quality**: SonarQube integration for code quality analysis
-- 📖 **Documentation**: Swagger UI for comprehensive API documentation
-- 🎯 **Purpose**: Providing gentle postpartum support for West Valley families
-- 🔄 **Status**: Actively developing new features and enhancements
+**Gentle Postpartum Support Platform | Full-Stack Development**  
+- 🛠️ **Backend**: Node.js (v18+), Express.js, TypeScript, JWT & Google OAuth authentication  
+- 🎨 **Frontend**: React with Vite, TypeScript, and Tailwind CSS  
+- 🗄️ **Database**: MongoDB with Mongoose schema modeling  
+- 🔐 **Security**: JWT authentication and Passport.js Google OAuth strategy  
+- 🐳 **DevOps**: Docker and Docker Compose for containerized local development  
+- 📊 **Quality**: SonarQube static code analysis integration  
+- 📖 **Documentation**: Swagger UI for interactive API documentation  
+- 🎯 **Purpose**: Providing gentle postpartum support for West Valley families  
+- 🔄 **Status**: Actively under development with separated frontend and backend services
 
 ### 🎮 [MineSweeper](https://github.com/NoahStarkenburg/MineSweeper)
 **Classic Game Recreation | C# / .NET Framework**
