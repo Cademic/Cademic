@@ -62,6 +62,17 @@ I'm a passionate **Full-Stack Developer** who enjoys web-development and learnin
 
 ## 📁 Featured Projects
 
+### 🗒️ [ASideNote](https://github.com/Cademic/ASideNote)  
+**Visual Note-Taking App | Infinite Canvas Experience**  
+
+- 🛠️ **Frontend**: React with Vite, TypeScript, and Tailwind CSS  
+- ✍️ **Editor**: TipTap (ProseMirror) for flexible rich text editing  
+- 🧠 **Concept**: Infinite canvas that lets users freely place and organize notes  
+- 🎯 **Features**: Drag-and-drop notes, visual organization, and natural writing flow  
+- 💾 **Data**: Designed for local-first storage with future export support (PDF, etc.)  
+- 🎨 **UX Focus**: Clean, minimal interface inspired by sticky notes and whiteboards  
+- 🚀 **Goal**: Make note-taking feel more visual, flexible, and intuitive
+
 ### 🌟 [Lunara Postpartum Support Platform](https://github.com/omniV1/AQC)
 **Gentle Postpartum Support Platform | Full-Stack Development**  
 - 🛠️ **Backend**: Node.js (v18+), Express.js, TypeScript, JWT & Google OAuth authentication  
